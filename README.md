@@ -40,6 +40,8 @@ Image below can demonstrate the structure of the pipeline, but pipeline which pi
 
 ![image](https://github.com/user-attachments/assets/340e3624-6e0d-4af0-bd26-6f1d62ba8447)
 
+
+
 **File Structure and Descriptions**
 
 individual_analysis_2.ipynb: Analysis of the data for financial and marketing questions.
@@ -59,3 +61,12 @@ FastAPI server: Implementation of a FastAPI server to test the model in a server
 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
+
+**Info**
+Actually this project was given from the company SkillBox and checked from highly qualified experts. This project is successfully accepted by mentor and I am certified for the completion of the course "Introduction to Datascience" for this final project. Here is the certification from Skillbox company.
+
+![Certification](https://github.com/user-attachments/assets/50666f04-ad99-42e5-a9b9-dc238cc7f888)
+
+More information about project and how I approached this problem to solve can be found in the presentation which I put into the **folder presentations**.
+
+
